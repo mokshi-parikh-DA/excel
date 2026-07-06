@@ -1,0 +1,22 @@
+Row Labels,Sum of revenue,,Row Labels,Sum of order_id,,Row Labels,Sum of revenue
+East,1236044.23,,Card,28404615,,Card,2366248.2
+North,1281508.45,,COD,22156059,,COD,1788408.44
+South,1246640.9,,Wallet,11941826,,Wallet,955119.1
+West,1345582.16,,Grand Total,62502500,,Grand Total,5109775.74
+Grand Total,5109775.74,,,,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Sum of quantity,Sum of discount,Sum of unit_price,,Row Labels,Sum of customer_rating,
+Beauty,2995,131.17,220307.42,,East,3648.1,
+Clothing,6171,282.1,465440.69,,North,3819.3,
+Electronics,7109,313.91,559582.02,,South,3585.1,
+Home,3949,172.74,296763.74,,West,3817.4,
+Grand Total,20224,899.92,1542093.87,,Grand Total,14869.9,
+,,,,,,,
+,,,,,,,
+,Row Labels,Sum of discount,,,Row Labels,Sum of revenue,
+,East,224.58,,,Beauty,765860.88,
+,North,229.7,,,Clothing,1531931.72,
+,South,212.02,,,Electronics,1829899.22,
+,West,233.62,,,Home,982083.92,
+,Grand Total,899.92,,,Grand Total,5109775.74,
